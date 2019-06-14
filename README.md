@@ -1,2 +1,3 @@
-# biostatistics
-Temporary repo for the upcoming biostatistics project
+# Biostatistics functions
+
+Aquest repositori no està mantingut en aquests moments; utilitzeu sota la vostra responsabilitat.
